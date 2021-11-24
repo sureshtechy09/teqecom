@@ -87,7 +87,7 @@
                   <div class="row d_flex">
                      <div class="col-md-5">
                         <div class="text-bg">
-                           <h1>AWS and <br>DevOps Training rahul dravid team india first test</h1>
+                           <h1>AWS and <br>DevOps Training rahul dravid team india</h1>
                            <strong>Free Multipurpose Responsive</strong>
                            <span>Landing Page 2019</span>
                            <a href="#">Buy Now</a>
